@@ -1,1 +1,1 @@
-# BSCS 1-G PF Lab
+# BSCS-1G-PF-Lab
